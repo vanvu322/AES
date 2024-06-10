@@ -1,5 +1,5 @@
 import numpy as np
-from Sbox import sbox, rbox, rcon
+from Sbox import *
 import base64
 
 def b64e(s):
